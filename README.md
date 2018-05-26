@@ -9,4 +9,4 @@ ChatDefender is a high-end chat moderation bot. This bot goes from command loggi
 # Manager
 Command Name | Description | Usages
 -------------|-------------|-------
-allowbypass | Allows uses with roles or messages in channels to bypass the filters. | allowbypass swear channel add #general<br>allowbypass swear channel remove #general<br>allowbypass link channel add #general<br>allowbypass swear channel remove #general<br>allowbypass link role add @role<br>
+allowbypass | Allows uses with roles or messages in channels to bypass the filters. | allowbypass swear channel add #general<br>allowbypass swear channel remove #general<br>allowbypass link channel add #general<br>allowbypass link channel remove #general<br>allowbypass link role add @role<br>allowbypass link role remove @role<br>allowbypass link channel add #general<br>allowbypass link channel remove #general
