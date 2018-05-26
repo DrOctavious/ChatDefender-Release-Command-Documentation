@@ -1,1 +1,1 @@
-# ChatDefender-Release-Command-Documentation
+### ChatDefender-Release-Command-Documentation
